@@ -5,5 +5,5 @@ Criando seu primeiro projeto com MongoDb
 2. Adding MongoDB namespace file
 3. Create MongoDB Client
 4. Create DataBase
-5. Create Tanle/Colletions
+5. Create Table/Colletions
 6. Inserting values
